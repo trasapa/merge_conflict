@@ -1,6 +1,6 @@
 var num = 50;
-<<<<<<< HEAD
-var truth = "Test values two"
-=======
 var truth = "Test value";
->>>>>>> d98c7f42e2b46a0ee11091f303411a23d01c5acd
+<<<<<<< HEAD
+=======
+var num = 100;
+>>>>>>> 6403abe3b27ba75e6db5bc42a8bd8998ea98c4af
